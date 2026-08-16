@@ -1,4 +1,4 @@
-# 🇬🇧 UK Top 50 Playlist Analysis
+# UK Top 50 Playlist Analysis
 
 ## 📌 Project Overview
 
